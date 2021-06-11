@@ -3,6 +3,9 @@
 * xref:admonition.adoc[Admonition]
 * xref:sidebar.adoc[Sidebar]
 * xref:ui-macros.adoc[UI Macros]
+* xref:ubuntu.adoc[ubuntu]
+
 * Lists
 ** xref:lists/ordered-list.adoc[Ordered List]
 ** xref:lists/unordered-list.adoc[Unordered List]
+** xref:ubuntu.adoc[ubuntu]
